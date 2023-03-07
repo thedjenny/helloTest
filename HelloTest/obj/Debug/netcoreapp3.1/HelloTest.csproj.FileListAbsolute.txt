@@ -1,0 +1,13 @@
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.csprojAssemblyReference.cache
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.AssemblyInfoInputs.cache
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.AssemblyInfo.cs
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.exe
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.deps.json
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.runtimeconfig.json
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.runtimeconfig.dev.json
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.dll
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.pdb
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\bin\Debug\netcoreapp3.1\MyJavaLibrary.dll
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.csproj.CopyComplete
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.dll
+C:\Users\SEGHIRI TAKI EDDINE\source\repos\HelloTest\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.pdb
